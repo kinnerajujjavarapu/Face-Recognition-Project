@@ -1,6 +1,7 @@
 # Face-Recognition-Project
 
-Project Structure:
+#Project Structure:
+
 main.py: The main script for face recognition.
 People/: Folder containing images of known faces.
 
