@@ -1,5 +1,4 @@
 # Face-Recognition-Project
-
 ## Project Structure:
 ### main.py: 
 The main script for face recognition.
@@ -9,4 +8,4 @@ Folder containing images of known faces.
 ### Steps to run the code:
 -Create folder with name as people containing images of known faces.
 ### Run
-pyhton main.py
+python main.py
